@@ -13,3 +13,5 @@ The questions we sought to address were as follows:
 (4) How do we know whether and when NR should implement a weather-related emergency speed restriction?
 
 The models used in this case are Logistic Regression and a Neural Network, with the Neural Network outperforming Logistic Regression by 16% in accuracy. The data is not publicly avalable since it was confidential.
+
+This study focuses on the region north of Preston. The data provided contained information about operational decisions, effects of the actions taken and weather conditions.
